@@ -16,4 +16,3 @@ client.on('message', function (topic, message) {
         eventSeq = ['CO', 'CF', 'DO', 'DF'];
     }
 });
-
